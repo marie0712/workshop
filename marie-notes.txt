@@ -7,6 +7,18 @@ ls
 cd
 
 mkdir
+	make directory
+
+touch
+	create file (.txt)
 
 git init
 	initialize a git repository
+
+git log
+	view history
+
+git log --oneline
+
+
+	
