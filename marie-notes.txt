@@ -1,0 +1,12 @@
+notes
+
+pwd
+
+ls
+
+cd
+
+mkdir
+
+git init
+	initialize a git repository
