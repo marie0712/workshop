@@ -51,9 +51,11 @@ git checkout [commit-id from --oneline]
 
 
 **Git Revert**
-=======
->>>>>>> parent of 7a6694a... added new notes about checkout
 
+git revert --no-edit [commit-id]
+	revert changes to commit-id
+	then it will auto-add a new commit for you called 'revert'
+	you can always revert a revert, by reverting the revert commit id :)
 
 **Git Reset**
 git reset --hard
