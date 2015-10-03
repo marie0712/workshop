@@ -44,4 +44,7 @@ git merge [branch-name]
 
 	
 
+**Git Checkout**
 
+git checkout [id from --oneline]
+	to go to previous versions using ID 
