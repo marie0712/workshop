@@ -39,5 +39,9 @@ git branch [name]
 git checkout [branch-name]
 	switches to branch [branch-name]
 
+git merge [branch-name]
+	merge branches
+
+	
 
 
