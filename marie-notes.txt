@@ -23,4 +23,21 @@ git log --oneline
 git diff
 	shows us what has changed between our working directory and staging area
 
-	
+Steps: git add
+	   git commit -m 'descr'
+	   git log --oneline
+
+
+Git Branch
+
+git branch
+	gives a list of all branches in the repository
+
+git branch [name]
+	creates a new branch [name]
+
+git checkout [branch-name]
+	switches to branch [branch-name]
+
+
+
