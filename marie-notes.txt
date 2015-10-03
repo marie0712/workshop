@@ -44,16 +44,10 @@ git merge [branch-name]
 
 	
 
+**Git Checkout**
 
-<<<<<<< HEAD
 git checkout [commit-id from --oneline]
 	to go to previous versions using coomit-id 
 
 
 **Git Revert**
-=======
->>>>>>> parent of 7a6694a... added new notes about checkout
-
-
-**Git Reset**
-git reset --hard
