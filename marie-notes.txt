@@ -46,5 +46,8 @@ git merge [branch-name]
 
 **Git Checkout**
 
-git checkout [id from --oneline]
-	to go to previous versions using ID 
+git checkout [commit-id from --oneline]
+	to go to previous versions using coomit-id 
+
+
+**Git Revert**
