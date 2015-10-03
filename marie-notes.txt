@@ -23,7 +23,7 @@ git log --oneline
 git diff
 	shows us what has changed between our working directory and staging area
 
-Steps: git add
+Always do when saving: git add
 	   git commit -m 'descr'
 	   git log --oneline
 
